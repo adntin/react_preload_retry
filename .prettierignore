@@ -1,0 +1,7 @@
+node_modules
+config
+public
+scripts
+build
+dist
+CHANGELOG.md
